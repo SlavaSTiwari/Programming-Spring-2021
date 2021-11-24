@@ -182,6 +182,7 @@ std::string random_name(){
 
     int c;
     std::string name("");
+
     char cons[] = "bcdfghjklmnpqrstwvxyz";
     char vow[] = "aeiou";
 
